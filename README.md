@@ -1,7 +1,7 @@
 ## Name
     Lucas Steadman
 ## Photo
-
+    ![Sad Cole Palmer](image.png)
 ## Graduating Year
     2028
 
